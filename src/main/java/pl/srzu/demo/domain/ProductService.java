@@ -12,6 +12,7 @@ public class ProductService {
     public void setProductName(String productName) {
         this.productName = productName;
     }
+    //some comment
 
     public InventoryService getInventoryService() {
         return inventoryService;
